@@ -41,4 +41,4 @@ with no parameters*/
 	
     /*Create an if statement where if double the radius of the circle
     is greater than or equal to the height of the screen then stop
-    the timer for growCircle
+    the timer for growCircle*/

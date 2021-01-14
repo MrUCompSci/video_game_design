@@ -26,7 +26,7 @@ with no parameters*/
 	
   
   /*Create an if statement that checks if counter
-  is odd or even, so (counter % 2 == 0)
+  is odd or even, so (counter % 2 == 0)*/
       //INSIDE THE IF STATEMENT
       //Set color of c to red
 

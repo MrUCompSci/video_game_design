@@ -49,5 +49,5 @@ with no parameters*/
 
 
   //Create an if statement to check if yPos is greater than height of canvas
-	  //INSIDE IF STATEMENT
-    //Stope the timer for draw
+	//INSIDE IF STATEMENT
+    	//Stope the timer for draw

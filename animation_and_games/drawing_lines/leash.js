@@ -13,6 +13,9 @@ function start() {
   
   /*Create 2 new veriables for the center of the screen
   one for x and one for y */
+	
+  /*Set line equal to a new line, with the above variables used
+  for both x position and both y positions*/
   
   //Add the line and ball
   

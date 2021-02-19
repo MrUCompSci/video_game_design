@@ -20,6 +20,15 @@ function setupBall(){
 
 }
 
+/*Create a function called setUpScoreText, with no
+parameters.
+
+This function will display the score on the screen.
+*/
+function setUpScoreText() {
+    
+}
+
 /*
 Create a function called changeColor, with no
 parameters.
